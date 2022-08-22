@@ -37,7 +37,7 @@ $(function () {
     ],
     albumArtworks = ["_1"],
     trackUrl = [
-      "https://radio25.virtualtronics.com/proxy/calandamia?mp=/perla",
+      "https://server2.intermediacolombia.com:8070/stream",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
