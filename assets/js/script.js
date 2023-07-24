@@ -37,7 +37,7 @@ $(function () {
     ],
     albumArtworks = ["_1"],
     trackUrl = [
-      "https://server2.intermediacolombia.com:8070/stream",
+      "https://radio35.virtualtronics.com/proxy/perlastereo?mp=/stream",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
